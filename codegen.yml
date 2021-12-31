@@ -1,5 +1,5 @@
 overwrite: true
-schema: https://api.thegraph.com/subgraphs/name/quantumlyy/eip721-subgraph-matic
+schema: https://api.thegraph.com/subgraphs/name/quantumlyy/eip1155-subgraph-matic
 generates:
   ./generated/ts/api.d.ts:
     plugins:
